@@ -63,3 +63,4 @@
         "<a href='#'>Privacy </a>",
         "<a href='#'>Termini</a>"
     ];
+?>
